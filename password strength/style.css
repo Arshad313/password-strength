@@ -1,0 +1,19 @@
+#message {
+    display: none;
+}
+
+#password {
+    border-width: 3px;
+    bordercolor: white;
+    padding: 2px;
+
+}
+
+.container {
+    border: white;
+}
+
+#password:hover {
+    cursor: pointer;
+    border-color: white;
+}
